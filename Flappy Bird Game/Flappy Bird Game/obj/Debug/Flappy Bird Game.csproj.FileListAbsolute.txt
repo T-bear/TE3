@@ -1,0 +1,15 @@
+C:\Users\torhol\source\repos\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy Bird Game.csprojAssemblyReference.cache
+C:\Users\torhol\source\repos\Flappy Bird Game\Flappy Bird Game\obj\Debug\MainWindow.g.cs
+C:\Users\torhol\source\repos\Flappy Bird Game\Flappy Bird Game\obj\Debug\App.g.cs
+C:\Users\torhol\source\repos\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy Bird Game_MarkupCompile.cache
+C:\Users\torhol\source\repos\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy Bird Game_MarkupCompile.lref
+C:\Users\torhol\source\repos\Flappy Bird Game\Flappy Bird Game\bin\Debug\Flappy Bird Game.exe.config
+C:\Users\torhol\source\repos\Flappy Bird Game\Flappy Bird Game\bin\Debug\Flappy Bird Game.exe
+C:\Users\torhol\source\repos\Flappy Bird Game\Flappy Bird Game\bin\Debug\Flappy Bird Game.pdb
+C:\Users\torhol\source\repos\Flappy Bird Game\Flappy Bird Game\obj\Debug\MainWindow.baml
+C:\Users\torhol\source\repos\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy Bird Game.g.resources
+C:\Users\torhol\source\repos\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy_Bird_Game.Properties.Resources.resources
+C:\Users\torhol\source\repos\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy Bird Game.csproj.GenerateResource.cache
+C:\Users\torhol\source\repos\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy Bird Game.csproj.CoreCompileInputs.cache
+C:\Users\torhol\source\repos\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy Bird Game.exe
+C:\Users\torhol\source\repos\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy Bird Game.pdb
