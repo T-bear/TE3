@@ -5,7 +5,7 @@ namespace classTestet
 {
     class Program
     {
-        static Random _r = new Random();
+        static readonly Random _r = new Random();
 
 
         static void Main(string[] args)
