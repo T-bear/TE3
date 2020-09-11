@@ -10,6 +10,7 @@ namespace classTestet
         private string name = "";
         private string title = "";
         public int atk;
+        static readonly Random _r = new Random();
 
 
         public Character(string name, string title, int atk)
@@ -40,6 +41,23 @@ namespace classTestet
         {
             return name + " " + title;
         }
-        
+
+        public void newAtk(Character attacker, Character attacked)
+        {
+
+            int x = _r.Next(attacker.Atk);
+            int y = _r.Next(attacked.Atk);
+            Console.WriteLine(attacker.Name + " Strikes with the power of " + x + "\n");
+            Console.WriteLine(attacked.Name + " Strikes with the power of " + y + "\n");
+            if (x > y)
+            {
+                Console.WriteLine("The winner is " + attacker.Name + "!!!");
+            }
+            else
+            {
+                Console.WriteLine("The winner is " + attacked.Name + "!!!");
+            }
+        }
+
     }
 }
