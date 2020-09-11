@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Reflection;
 using System.Text;
 
 namespace classTestet
@@ -10,11 +11,13 @@ namespace classTestet
         private string title = "";
         public int atk;
 
+
         public Character(string name, string title, int atk)
         {
             this.name = name;
             this.title = title;
             this.atk = atk;
+
         }
 
         public string Name
@@ -27,18 +30,16 @@ namespace classTestet
             get { return title; }
             set { title = Title; }
         }
-        
+
         public int Atk
         {
             get { return atk; }
             set { atk = Atk; }
         }
-
         public override string ToString()
         {
             return name + " " + title;
         }
-
-
+        
     }
 }
