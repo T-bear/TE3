@@ -1,0 +1,13 @@
+C:\Users\torhol\source\repos\classTestet\classTestet\bin\Debug\netcoreapp3.1\classTestet.exe
+C:\Users\torhol\source\repos\classTestet\classTestet\bin\Debug\netcoreapp3.1\classTestet.deps.json
+C:\Users\torhol\source\repos\classTestet\classTestet\bin\Debug\netcoreapp3.1\classTestet.runtimeconfig.json
+C:\Users\torhol\source\repos\classTestet\classTestet\bin\Debug\netcoreapp3.1\classTestet.runtimeconfig.dev.json
+C:\Users\torhol\source\repos\classTestet\classTestet\bin\Debug\netcoreapp3.1\classTestet.dll
+C:\Users\torhol\source\repos\classTestet\classTestet\bin\Debug\netcoreapp3.1\classTestet.pdb
+C:\Users\torhol\source\repos\classTestet\classTestet\obj\Debug\netcoreapp3.1\classTestet.csprojAssemblyReference.cache
+C:\Users\torhol\source\repos\classTestet\classTestet\obj\Debug\netcoreapp3.1\classTestet.AssemblyInfoInputs.cache
+C:\Users\torhol\source\repos\classTestet\classTestet\obj\Debug\netcoreapp3.1\classTestet.AssemblyInfo.cs
+C:\Users\torhol\source\repos\classTestet\classTestet\obj\Debug\netcoreapp3.1\classTestet.csproj.CoreCompileInputs.cache
+C:\Users\torhol\source\repos\classTestet\classTestet\obj\Debug\netcoreapp3.1\classTestet.dll
+C:\Users\torhol\source\repos\classTestet\classTestet\obj\Debug\netcoreapp3.1\classTestet.pdb
+C:\Users\torhol\source\repos\classTestet\classTestet\obj\Debug\netcoreapp3.1\classTestet.genruntimeconfig.cache
