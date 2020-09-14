@@ -42,6 +42,7 @@ namespace classTestet
             return name + " " + title;
         }
 
+        //Randomizes the object's value and presents the winner with the highest Atk.
         public void newAtk(Character attacker, Character attacked)
         {
 
